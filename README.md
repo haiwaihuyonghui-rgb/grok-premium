@@ -1,12 +1,23 @@
 # Grok Premium（原 SuperGrok）国内怎么买 2026：官方订阅、App 内购、礼品卡、代充四种方法怎么选（中立攻略）
 
-> 最后更新：2026-10-26 · 全文改为中立攻略结构：先讲四种开通方法各自的价格、条件、优缺点和风险（附 xAI 官方链接，官方四档价格 10-26 复核；新增 xAI 官方"不授权任何第三方卖家"的原文说明）；作者商城价格放到最后；文末新增"复测记录"。
+> 最后更新：2026-10-27 · 文首加"快速购买"和来源小调查，文末加"相关攻略"互链全部 10 个简体攻略仓库；作者商城价格 curl 复核无变动。
 
 Grok Premium 怎么买、SuperGrok 国内怎么充值、Grok 会员多少钱、三合一是什么：这一页先把**所有能开通的方法**按官方能核实的信息讲清楚。事实部分只写 xAI 官方页面能查到的内容，附链接和核对日期。
 
 **立场说明：** 本仓库由"瑶瑶ai训练师"整理，作者自己经营一家 AI 会员代充商城（kw.yaoyao.chat），所以本文不是第三方评测。代充只作为四种方法中的一种来写，作者商城的价格和链接统一放在最后一节。与 xAI、X 没有隶属关系，也没有授权，品牌名仅用于说明。
 
 **专题页：** [Grok 代充 / Grok 会员充值：能充条件、流程、靠谱吗](grok-daichong.md)
+
+<!-- 快速购买:开始（周更脚本会核对这里的价格） -->
+**快速购买**（作者自营商城 kw.yaoyao.chat，人民币，2026-10-27 核对，实际以商品页为准）：
+
+- ChatGPT Pro（100 美金档位）一个月 ¥699 → [kw.yaoyao.chat/item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=grok-premium)
+- ChatGPT Plus 一个月 ¥129 → [kw.yaoyao.chat/item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=grok-premium)
+- Grok Premium（原 SuperGrok，三合一）一个月 ¥159 → [kw.yaoyao.chat/item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=grok-premium)（只限免费版、且有官方半价 50% 优惠的账号）
+- 320万粉丝博主瑶瑶本人经营 · 开通失败可退 · 客服 09:00–24:00（北京时间）
+
+你是从哪里知道这个仓库的？点一下帮我们统计：[搜索引擎](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=search) · [AI 推荐](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=ai) · [朋友/群里发的](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=friend) · [GitHub 站内](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=github)
+<!-- 快速购买:结束 -->
 
 ## 目录
 
@@ -25,6 +36,7 @@ Grok Premium 怎么买、SuperGrok 国内怎么充值、Grok 会员多少钱、�
 - [常见问题](#常见问题)
 - [复测记录](#复测记录)
 - [English summary](#english-summary)
+- [相关攻略](#相关攻略)
 
 ## 先看官方立场
 
@@ -151,6 +163,7 @@ A：官网订阅会自动续费，要在续费前至少 24 小时取消；代充
 
 | 日期 | 核对了什么 | 结果 |
 |---|---|---|
+| 2026-10-27 | **价格：** curl 作者商城商品页 item/5、7、10、11、12、13、14、17、18、19 和 llms.txt | 与本页"快速购买"一致（Pro 100 美金档位 ¥699、Plus ¥129、Grok Premium ¥159（商品页仍写只限免费版 + 半价 50%）），十个商品均无变动 |
 | 2026-10-26 | **价格：** curl 作者商城商品页 item/10 和 llms.txt | Grok Premium 一个月 ¥159，商品页仍写"只限免费版 + 半价 50%"，无变动 |
 | 2026-10-26 | **官方价格：** 打开 x.ai/pricing | Plus 8 / Premium 30 / Super 100 / Ultra 200 美元每月，不含税，和 10-22 核对一致 |
 | 2026-10-26 | 官方政策： x.ai/pricing FAQ | 自助订阅支持主流信用卡和借记卡；用量池 Grok 与 Cursor 共用、每周刷新；官方不授权任何第三方卖家，未授权来源的订阅可能被暂停或终止（本次新写入正文）；续费前 24 小时取消 |
@@ -160,8 +173,20 @@ A：官网订阅会自动续费，要在续费前至少 24 小时取消；代充
 
 A neutral Chinese-language guide to getting Grok Premium (formerly SuperGrok; now one subscription covering Grok, Cursor and X Premium). Official prices from x.ai/pricing, checked 2026-10-26: Plus $8, Premium $30, Super $100, Ultra $200 per month, excluding tax. Important: xAI states it does not authorize any resellers or third-party sellers and that subscriptions bought elsewhere may be suspended or terminated; this applies to every unofficial route, including top-up services. Disclosure: the author, 瑶瑶ai训练师 (Yaoyao AI Trainer), runs one such top-up shop, kw.yaoyao.chat (Grok Premium ¥159/month, CNY, free accounts with the official 50%-off offer only; checked 2026-10-26). Not affiliated with or authorized by xAI or X.
 
----
+## 相关攻略
 
-同一作者的其他仓库：[ChatGPT 开通总指南（gpt-chongzhi）](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi) · [Claude Pro / Max 国内怎么开通（claude-daichong）](https://github.com/haiwaihuyonghui-rgb/claude-daichong)
+同一作者整理的其他简体中文攻略（都附官方链接和复测记录）：
+
+- [gpt-chongzhi](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi)：GPT代充 / ChatGPT Plus 国内怎么开通：官方订阅、App 内购、礼品卡、代充四种方法对比
+- [chatgpt-plus-wu-xinyongka](https://github.com/haiwaihuyonghui-rgb/chatgpt-plus-wu-xinyongka)：没有信用卡怎么开通 ChatGPT Plus：支付宝 / 微信能不能付、礼品卡、代充
+- [chatgpt-pro-100](https://github.com/haiwaihuyonghui-rgb/chatgpt-pro-100)：ChatGPT Pro 100 美金档位国内怎么买：Pro 100 / 200 / 500 三档区别、和 Plus 差在哪
+- [chatgpt-jiage-duibi](https://github.com/haiwaihuyonghui-rgb/chatgpt-jiage-duibi)：ChatGPT / Claude / Gemini / Grok 会员价格对比 2026：四家官方价、国内开通方法、代充价
+- [codex-cli-guide-cn](https://github.com/haiwaihuyonghui-rgb/codex-cli-guide-cn)：OpenAI Codex CLI 国内使用指南：安装、ChatGPT 账号登录、Plus / Pro 额度、常见报错
+- [claude-daichong](https://github.com/haiwaihuyonghui-rgb/claude-daichong)：Claude Pro / Max 国内怎么开通：官方订阅、App 内购、赠送订阅、代充四种方法
+- [claude-chongzhi](https://github.com/haiwaihuyonghui-rgb/claude-chongzhi)：Claude 充值平台怎么选：Pro / Max 怎么选、充值后显示 Free Plan 排查
+- [claude-code-guide-cn](https://github.com/haiwaihuyonghui-rgb/claude-code-guide-cn)：Claude Code 国内使用指南：安装、登录、Pro / Max 额度、常见报错
+- [ai-subscription-guide-cn](https://github.com/haiwaihuyonghui-rgb/ai-subscription-guide-cn)：AI 会员订阅国内指南：ChatGPT / Claude / Gemini / Grok 开通路线对比、常见报错速查
+
+---
 
 整理：瑶瑶ai训练师（AI 内容创作者），[官网](https://www.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=grok-premium)。本仓库为非官方教程整理，与 xAI、X 没有隶属关系，品牌名仅用于说明。内容采用 MIT 许可。
