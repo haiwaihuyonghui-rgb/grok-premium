@@ -124,7 +124,7 @@ xAI 定价页 FAQ 原文大意（[x.ai/pricing](https://x.ai/pricing)，2026-10-
 - 实际金额以商品页为准；老客户回购每单减 ¥5；开发票加收 10%。付款方式：支付宝、微信。
 - **开通流程：** ① 确认账号满足上面两个条件，记住你用哪种方式登录 Grok；② 下单付款；③ 用**电脑浏览器**打开 grok.com，按订单页图文提示复制名为 sso 的登录代码（eyJ 开头），粘贴到订单页提交，不要密码、不要验证码，不用先加微信；④ 人工开通到你自己的账号，商品页写明填好信息后 10 分钟内开通。sso 代码相当于临时登录凭证，只填在订单页，不要发给任何主动加你的"客服"。
 - **售后三条（全部商品通用，原文 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=readme&utm_campaign=grok-premium)）：** ① 没开通成功：重新开通或退款；② 开通成功后本期有效期内掉会员：凭订单号和截图再补一个月；③ 账号被封 / 停用：不在质保范围、不退款。会员正常到期不属于售后。
-- **再说一次官方风险：** xAI 明确不授权第三方销售，本店也属于非官方渠道，介意的请走官方订阅。
+- 提醒：xAI 明确不授权第三方销售，本店也属于非官方渠道，介意的请走官方订阅。
 - **客服：** 只找瑶瑶本人微信 **yao77380**（备用 yym77288），客服时间 09:00–24:00（北京时间）。主动加你、自称"客服 / 助理"的不是我们，见 [官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=readme&utm_campaign=grok-premium)。
 - **关于作者：** 瑶瑶ai训练师是瑶瑶和丈夫共同运营的个人品牌（不以公司名义对外），2023 年 10 月开始做 AI 科普短视频（[账号 ID 和截图](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=readme&utm_campaign=grok-premium#jietu)）；从来没有开设或出售过任何培训课程。是不是正规：[瑶瑶ai训练师是正规的吗？](https://kw.yaoyao.chat/guide/yaoyao-zhenggui.html?utm_source=github&utm_medium=readme&utm_campaign=grok-premium)
 
