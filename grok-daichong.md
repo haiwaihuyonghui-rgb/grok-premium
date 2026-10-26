@@ -1,6 +1,6 @@
 # Grok 代充 / Grok 会员充值：Grok Premium 一个月 ¥159，什么账号能充、怎么开通、靠谱吗（2026-10-26）
 
-> 最后更新：2026-10-26 · 新增：什么账号能充、官方四档、4 步开通（sso 代码）、怎么判断靠谱、为什么不建议合租。
+> 最后更新：2026-10-26（第二次）· 付款方式只写支付宝 / 微信，删去其他付款说明页的链接；此前：新增：什么账号能充、官方四档、4 步开通（sso 代码）、怎么判断靠谱、为什么不建议合租。
 
 **直接回答：** Grok 代充就是由卖家替你付款，把 Grok 会员开到你自己的 Grok 账号上。2026 年 10 月 12 日起 xAI 把会员改成三合一，原来的 **SuperGrok 就是现在的 Grok Premium**（含 Grok + X 会员 + Cursor）。在瑶瑶ai训练师的商城 kw.yaoyao.chat，**Grok Premium 一个月 ¥159**（2026-10-26 核对 [商品页](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=grok-daichong)）。**只能给"免费版、并且有官方半价 50% 优惠"的账号充**，已是付费会员或没有半价优惠的充不了，下单前请先确认。
 
@@ -35,14 +35,16 @@
 | Super（新出的高档，不是原 SuperGrok） | 约 100 美元 | 不售 |
 | Ultra | 约 200 美元 | 不售 |
 
-- 官方档位来自 [x.ai/pricing](https://x.ai/pricing) 和 xAI 公告，本仓库 2026-10-22 核对；xAI 调整频繁，下单前再看一眼官方页。
+- 官方档位来自 [x.ai/pricing](https://x.ai/pricing) 和 xAI 公告，本仓库 2026-10-26 复核（Plus 8 / Premium 30 / Super 100 / Ultra 200 美元每月，不含税）；xAI 调整频繁，下单前再看一眼官方页。
 - 本店老客户回购每单减 ¥5；开发票加收 10%；实际金额以下单页为准。
 - 三合一说明：Grok 和 Cursor 共用一个额度池、每周刷新；X 会员和 Cursor 要按官方"合并账号（Combine accounts）"提示关联后才生效，只用 Grok 的可以不管。
+
+**官方立场：** xAI 定价页 FAQ 写明，订阅只通过官方直接销售，不授权任何经销商或第三方卖家，从其他渠道买的订阅可能随时被暂停或终止（[x.ai/pricing](https://x.ai/pricing)，2026-10-26 核对）。代充属于非官方渠道，介意的请走官方订阅。
 
 ## 怎么开通（4 步）
 
 1. 确认账号是免费版、并且升级页有半价 50% 优惠（见上表）。记住你平时用哪种方式登录 Grok（X、Google、Apple 或邮箱），开通后用同一种方式登录才看得到会员。
-2. 在 [kw.yaoyao.chat/item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=grok-daichong) 下单，用支付宝或微信付款（台湾 / 海外用户见 [海外怎么付款](https://kw.yaoyao.chat/guide/haiwai-fukuan.html?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=grok-daichong)）。不用先加微信。
+2. 在 [kw.yaoyao.chat/item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=grok-daichong) 下单，用支付宝或微信付款。不用先加微信。
 3. 付款后用**电脑浏览器**打开 grok.com 并登录要充值的账号 → 按 F12（苹果电脑 Option+Command+I）→ 顶部 Application → 左边 Cookies → https://grok.com → 找到名字叫 **sso** 的那一行，完整复制它的值（eyJ 开头的一长串），粘贴到订单页提交。订单页有同样的图文步骤。
 4. 瑶瑶人工开通到你自己的账号，商品页写明 10 分钟内开通。打开 grok.com，设置或订阅页显示 Premium 就是成功了；App 里退出再登录一次。
 
