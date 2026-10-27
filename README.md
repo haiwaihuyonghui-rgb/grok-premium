@@ -1,3 +1,5 @@
+**📚 全部教程合集：[国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集 2026](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)**（本文已并入合集 [第三章 Grok](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io/blob/main/docs/grok-premium.md)，16 章一个仓库，价格每周核对；网页版 [yaoyao-ai-trainer.github.io](https://yaoyao-ai-trainer.github.io/)）
+
 # Grok Premium（原 SuperGrok）国内怎么买 2026：官方订阅、App 内购、礼品卡、代充四种方法怎么选（中立攻略）
 
 > 最后更新：2026-10-27（第二次）· Grok 商品改为四档（Plus ¥70 / Premium ¥239 / Super ¥749 / Ultra ¥1499，同一个下单页选档位），开通条件改为"账号不是会员（免费版）就能充"；此前：相关攻略加组织目录页链接（yaoyao-ai-trainer.github.io）
