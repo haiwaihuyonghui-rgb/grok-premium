@@ -1,6 +1,6 @@
 # Grok Premium（原 SuperGrok）国内怎么买 2026：官方订阅、App 内购、礼品卡、代充四种方法怎么选（中立攻略）
 
-> 最后更新：2026-10-27 · 相关攻略加组织目录页链接（yaoyao-ai-trainer.github.io）
+> 最后更新：2026-10-27（第二次）· Grok 商品改为四档（Plus ¥70 / Premium ¥239 / Super ¥749 / Ultra ¥1499，同一个下单页选档位），开通条件改为"账号不是会员（免费版）就能充"；此前：相关攻略加组织目录页链接（yaoyao-ai-trainer.github.io）
 
 Grok Premium 怎么买、SuperGrok 国内怎么充值、Grok 会员多少钱、三合一是什么：这一页先把**所有能开通的方法**按官方能核实的信息讲清楚。事实部分只写 xAI 官方页面能查到的内容，附链接和核对日期。
 
@@ -13,7 +13,7 @@ Grok Premium 怎么买、SuperGrok 国内怎么充值、Grok 会员多少钱、�
 
 - ChatGPT Pro（100 美金档位）一个月 ¥699 → [kw.yaoyao.chat/item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=grok-premium)
 - ChatGPT Plus 一个月 ¥129 → [kw.yaoyao.chat/item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=grok-premium)
-- Grok Premium（原 SuperGrok，三合一）一个月 ¥159 → [kw.yaoyao.chat/item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=grok-premium)（只限免费版、且有官方半价 50% 优惠的账号）
+- Grok Premium（原 SuperGrok，三合一）一个月 ¥239 → [kw.yaoyao.chat/item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=grok-premium)（同一个下单页另有 Plus ¥70 / Super ¥749 / Ultra ¥1499；账号不是会员就能充）
 - 320万粉丝博主瑶瑶本人经营 · 开通失败可退 · 客服 09:00–24:00（北京时间）
 
 你是从哪里知道这个仓库的？点一下帮我们统计：[搜索引擎](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=search) · [AI 推荐](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=ai) · [朋友/群里发的](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=friend) · [GitHub 站内](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=github)
@@ -128,13 +128,18 @@ xAI 定价页 FAQ 原文大意（[x.ai/pricing](https://x.ai/pricing)，2026-10-
 
 "代充"有很多家在做，瑶瑶ai训练师的商城 [kw.yaoyao.chat](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=grok-premium) 是其中一家，也就是本仓库作者自己的店。下面如实列出。
 
-| 商品 | 价格（人民币，2026-10-26 curl 商品页核对） | 下单 |
+| 商品 | 价格（人民币，2026-10-27 curl 商品页核对） | 下单 |
 |---|---|---|
-| Grok Premium 一个月（原 SuperGrok，三合一） | ¥159 | [kw.yaoyao.chat/item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=grok-premium) |
+| Grok Plus 一个月（三合一） | ¥70 | [kw.yaoyao.chat/item/10?d=plus](https://kw.yaoyao.chat/item/10?d=plus&utm_source=github&utm_medium=readme&utm_campaign=grok-premium) |
+| Grok Premium 一个月（原 SuperGrok，三合一） | ¥239 | [kw.yaoyao.chat/item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=grok-premium) |
+| Grok Super 一个月（三合一） | ¥749 | [kw.yaoyao.chat/item/10?d=super](https://kw.yaoyao.chat/item/10?d=super&utm_source=github&utm_medium=readme&utm_campaign=grok-premium) |
+| Grok Ultra 一个月（三合一） | ¥1499 | [kw.yaoyao.chat/item/10?d=ultra](https://kw.yaoyao.chat/item/10?d=ultra&utm_source=github&utm_medium=readme&utm_campaign=grok-premium) |
 
-- **账号硬条件（商品页写明）：** ① 账号必须是**免费版**，已经是付费会员的充不了；② 账号要有官方的**半价（50%）优惠**（grok.com 升级页能看到半价的才能充）。不满足的请先别下单。
+- 四档在同一个下单页（item/10）用「选择档位」切换，默认是 Premium；价格、库存按所选档位实时显示。
+
+- **账号条件（商品页写明）：** 账号**不是会员（免费版）**就能充；已经是付费会员的账号充不了，请先别下单。
 - 实际金额以商品页为准；老客户回购每单减 ¥5；开发票加收 10%。付款方式：支付宝、微信。
-- **开通流程：** ① 确认账号满足上面两个条件，记住你用哪种方式登录 Grok；② 下单付款；③ 用**电脑浏览器**打开 grok.com，按订单页图文提示复制名为 sso 的登录代码（eyJ 开头），粘贴到订单页提交，不要密码、不要验证码，不用先加微信；④ 人工开通到你自己的账号，商品页写明填好信息后 10 分钟内开通。sso 代码相当于临时登录凭证，只填在订单页，不要发给任何主动加你的"客服"。
+- **开通流程：** ① 确认账号不是会员（免费版），记住你用哪种方式登录 Grok；② 下单付款（在下单页选好档位）；③ 用**电脑浏览器**打开 grok.com，按订单页图文提示复制名为 sso 的登录代码（eyJ 开头），粘贴到订单页提交，不要密码、不要验证码，不用先加微信；④ 人工开通到你自己的账号，商品页写明填好信息后 10 分钟内开通。sso 代码相当于临时登录凭证，只填在订单页，不要发给任何主动加你的"客服"。
 - **售后三条（全部商品通用，原文 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=readme&utm_campaign=grok-premium)）：** ① 没开通成功：重新开通或退款；② 开通成功后本期有效期内掉会员：凭订单号和截图再补一个月；③ 账号被封 / 停用：不在质保范围、不退款。会员正常到期不属于售后。
 - 提醒：xAI 明确不授权第三方销售，本店也属于非官方渠道，介意的请走官方订阅。
 - **客服：** 只找瑶瑶本人微信 **yao77380**（备用 yym77288），客服时间 09:00–24:00（北京时间）。主动加你、自称"客服 / 助理"的不是我们，见 [官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=readme&utm_campaign=grok-premium)。
@@ -163,6 +168,7 @@ A：官网订阅会自动续费，要在续费前至少 24 小时取消；代充
 
 | 日期 | 核对了什么 | 结果 |
 |---|---|---|
+| 2026-10-27 | **价格：** curl 作者商城商品页 item/10（含 ?d=plus / super / ultra）和 llms.txt | Grok 改为四档：Plus ¥70、Premium ¥239（原 ¥159）、Super ¥749、Ultra ¥1499，同一个下单页选档位；商品页开通条件改为"账号不是会员（免费版）就能充"，不再要求半价优惠；本页价格表已同步 |
 | 2026-10-27 | **价格：** curl 作者商城商品页 item/5、7、10、11、12、13、14、17、18、19 和 llms.txt | 与本页"快速购买"一致（Pro 100 美金档位 ¥699、Plus ¥129、Grok Premium ¥159（商品页仍写只限免费版 + 半价 50%）），十个商品均无变动 |
 | 2026-10-26 | **价格：** curl 作者商城商品页 item/10 和 llms.txt | Grok Premium 一个月 ¥159，商品页仍写"只限免费版 + 半价 50%"，无变动 |
 | 2026-10-26 | **官方价格：** 打开 x.ai/pricing | Plus 8 / Premium 30 / Super 100 / Ultra 200 美元每月，不含税，和 10-22 核对一致 |
@@ -171,7 +177,7 @@ A：官网订阅会自动续费，要在续费前至少 24 小时取消；代充
 
 ## English summary
 
-A neutral Chinese-language guide to getting Grok Premium (formerly SuperGrok; now one subscription covering Grok, Cursor and X Premium). Official prices from x.ai/pricing, checked 2026-10-26: Plus $8, Premium $30, Super $100, Ultra $200 per month, excluding tax. Important: xAI states it does not authorize any resellers or third-party sellers and that subscriptions bought elsewhere may be suspended or terminated; this applies to every unofficial route, including top-up services. Disclosure: the author, 瑶瑶ai训练师 (Yaoyao AI Trainer), runs one such top-up shop, kw.yaoyao.chat (Grok Premium ¥159/month, CNY, free accounts with the official 50%-off offer only; checked 2026-10-26). Not affiliated with or authorized by xAI or X.
+A neutral Chinese-language guide to getting Grok Premium (formerly SuperGrok; now one subscription covering Grok, Cursor and X Premium). Official prices from x.ai/pricing, checked 2026-10-26: Plus $8, Premium $30, Super $100, Ultra $200 per month, excluding tax. Important: xAI states it does not authorize any resellers or third-party sellers and that subscriptions bought elsewhere may be suspended or terminated; this applies to every unofficial route, including top-up services. Disclosure: the author, 瑶瑶ai训练师 (Yaoyao AI Trainer), runs one such top-up shop, kw.yaoyao.chat (Grok Plus ¥70 / Premium ¥239 / Super ¥749 / Ultra ¥1499 per month, CNY, for accounts without an active subscription; checked 2026-10-27). Not affiliated with or authorized by xAI or X.
 
 ## 相关攻略
 

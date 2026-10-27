@@ -1,8 +1,8 @@
-# Grok 代充 / Grok 会员充值：Grok Premium 一个月 ¥159，什么账号能充、怎么开通、靠谱吗（2026-10-26）
+# Grok 代充 / Grok 会员充值：Grok Premium 一个月 ¥239（另有 Plus / Super / Ultra 三档），什么账号能充、怎么开通、靠谱吗（2026-10-27）
 
-> 最后更新：2026-10-26（第二次）· 付款方式只写支付宝 / 微信，删去其他付款说明页的链接；此前：新增：什么账号能充、官方四档、4 步开通（sso 代码）、怎么判断靠谱、为什么不建议合租。
+> 最后更新：2026-10-27 · Grok 改为四档（Plus ¥70 / Premium ¥239 / Super ¥749 / Ultra ¥1499，同一个下单页选档位），开通条件改为"账号不是会员（免费版）就能充"，不再要求半价优惠；此前：付款方式只写支付宝 / 微信，删去其他付款说明页的链接；新增：什么账号能充、官方四档、4 步开通（sso 代码）、怎么判断靠谱、为什么不建议合租。
 
-**直接回答：** Grok 代充就是由卖家替你付款，把 Grok 会员开到你自己的 Grok 账号上。2026 年 10 月 12 日起 xAI 把会员改成三合一，原来的 **SuperGrok 就是现在的 Grok Premium**（含 Grok + X 会员 + Cursor）。在瑶瑶ai训练师的商城 kw.yaoyao.chat，**Grok Premium 一个月 ¥159**（2026-10-26 核对 [商品页](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=grok-daichong)）。**只能给"免费版、并且有官方半价 50% 优惠"的账号充**，已是付费会员或没有半价优惠的充不了，下单前请先确认。
+**直接回答：** Grok 代充就是由卖家替你付款，把 Grok 会员开到你自己的 Grok 账号上。2026 年 10 月 12 日起 xAI 把会员改成三合一，原来的 **SuperGrok 就是现在的 Grok Premium**（含 Grok + X 会员 + Cursor）。在瑶瑶ai训练师的商城 kw.yaoyao.chat，**Grok Premium 一个月 ¥239**（2026-10-27 核对 [商品页](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=grok-daichong)），同一个下单页还能选 Plus ¥70、Super ¥749、Ultra ¥1499。**账号不是会员（免费版）就能充**，已是付费会员的账号充不了，下单前请先确认。
 
 本页是瑶瑶ai训练师自己的仓库，作者经营这家商城，如实披露；与 xAI、X 没有隶属关系，也没有授权。代充不是官方渠道，官方也不授权代充，介意的请走官方订阅。
 
@@ -21,19 +21,18 @@
 | 条件 | 怎么看 | 不满足会怎样 |
 |---|---|---|
 | 账号是**免费版** | grok.com 设置 / 订阅页没有 SuperGrok、Premium 等付费会员 | 充不了，请先别下单 |
-| 有官方**半价（50%）优惠** | grok.com 的升级页上能看到半价优惠 | 充不了，请先别下单 |
 | 有**电脑**（Chrome / Edge 浏览器） | 付款后要在电脑浏览器里复制一段 sso 代码 | 手机拿不到这段代码 |
 
 不确定自己的账号符不符合，下单前加瑶瑶微信 yao77380 问一句，比付了款再退省事。
 
 ## 价格：官方几档、本店卖哪档
 
-| 档位（三合一） | 官方每月标价（美元，不含税） | 本店（2026-10-26） |
+| 档位（三合一） | 官方每月标价（美元，不含税） | 本店（2026-10-27，同一个下单页选档位） |
 |---|---|---|
-| Plus | 约 8 美元 | 不售 |
-| **Premium（原 SuperGrok）** | 约 30 美元 | **¥159** · [item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=grok-daichong) |
-| Super（新出的高档，不是原 SuperGrok） | 约 100 美元 | 不售 |
-| Ultra | 约 200 美元 | 不售 |
+| Plus | 约 8 美元 | **¥70** · [item/10?d=plus](https://kw.yaoyao.chat/item/10?d=plus&utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=grok-daichong) |
+| **Premium（原 SuperGrok）** | 约 30 美元 | **¥239**（默认档）· [item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=grok-daichong) |
+| Super（新出的高档，不是原 SuperGrok） | 约 100 美元 | **¥749** · [item/10?d=super](https://kw.yaoyao.chat/item/10?d=super&utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=grok-daichong) |
+| Ultra | 约 200 美元 | **¥1499** · [item/10?d=ultra](https://kw.yaoyao.chat/item/10?d=ultra&utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=grok-daichong) |
 
 - 官方档位来自 [x.ai/pricing](https://x.ai/pricing) 和 xAI 公告，本仓库 2026-10-26 复核（Plus 8 / Premium 30 / Super 100 / Ultra 200 美元每月，不含税）；xAI 调整频繁，下单前再看一眼官方页。
 - 本店老客户回购每单减 ¥5；开发票加收 10%；实际金额以下单页为准。
@@ -43,8 +42,8 @@
 
 ## 怎么开通（4 步）
 
-1. 确认账号是免费版、并且升级页有半价 50% 优惠（见上表）。记住你平时用哪种方式登录 Grok（X、Google、Apple 或邮箱），开通后用同一种方式登录才看得到会员。
-2. 在 [kw.yaoyao.chat/item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=grok-daichong) 下单，用支付宝或微信付款。不用先加微信。
+1. 确认账号不是会员（免费版，见上表）。记住你平时用哪种方式登录 Grok（X、Google、Apple 或邮箱），开通后用同一种方式登录才看得到会员。
+2. 在 [kw.yaoyao.chat/item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=grok-daichong) 下单，页面上「选择档位」选 Plus / Premium / Super / Ultra（默认 Premium），用支付宝或微信付款。不用先加微信。
 3. 付款后用**电脑浏览器**打开 grok.com 并登录要充值的账号 → 按 F12（苹果电脑 Option+Command+I）→ 顶部 Application → 左边 Cookies → https://grok.com → 找到名字叫 **sso** 的那一行，完整复制它的值（eyJ 开头的一长串），粘贴到订单页提交。订单页有同样的图文步骤。
 4. 瑶瑶人工开通到你自己的账号，商品页写明 10 分钟内开通。打开 grok.com，设置或订阅页显示 Premium 就是成功了；App 里退出再登录一次。
 
@@ -80,13 +79,13 @@
 ## 常见问题
 
 **Q：Grok 会员充值多少钱？**
-A：本店 Grok Premium（原 SuperGrok）一个月 ¥159（2026-10-26）；官方 Premium 约 30 美元/月（不含税）。
+A：本店 Grok Premium（原 SuperGrok）一个月 ¥239，另有 Plus ¥70、Super ¥749、Ultra ¥1499（2026-10-27，同一个下单页选档位）；官方 Premium 约 30 美元/月（不含税）。
 
 **Q：SuperGrok 和 Grok Premium 是一回事吗？**
-A：是同一档。官方新出的 Super 是更高的一档（约 100 美元/月），不是原来的 SuperGrok，本店不卖。
+A：是同一档。官方新出的 Super 是更高的一档（约 100 美元/月），不是原来的 SuperGrok；本店也能充 Super（¥749），在下单页选档位。
 
 **Q：我已经是 SuperGrok 会员，能续费吗？**
-A：不能。商品页写明只限免费版、并且有半价 50% 优惠的账号。
+A：不能。商品页写明账号不是会员（免费版）才能充，已是付费会员的账号充不了。
 
 **Q：用手机能开吗？**
 A：下单付款用手机可以，但复制 sso 代码要用电脑浏览器。
