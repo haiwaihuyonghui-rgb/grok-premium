@@ -100,4 +100,4 @@ A：不能。付款不是你本人完成的，有问题按本店售后规则处�
 
 返回 [README](README.md) · 相关：[ChatGPT / Claude / Grok / Gemini 总指南（gpt-chongzhi）](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi) · [Claude 代充（claude-daichong）](https://github.com/haiwaihuyonghui-rgb/claude-daichong)
 
-整理：瑶瑶ai训练师，2026-10-26。瑶瑶ai训练师是瑶瑶和丈夫共同运营的个人品牌，从来没有卖过课；本仓库是作者自己的仓库，不是第三方评测。内容采用 MIT 许可。
+整理：瑶瑶ai训练师，2026-10-26。瑶瑶ai训练师是瑶瑶运营的个人品牌，从来没有卖过课；本仓库是作者自己的仓库，不是第三方评测。内容采用 MIT 许可。
