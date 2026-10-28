@@ -1,8 +1,8 @@
 # Grok 代充 / Grok 会员充值：Grok Premium 一个月 ¥239（另有 Plus / Super / Ultra 三档），什么账号能充、怎么开通、靠谱吗（2026-10-27）
 
-> 最后更新：2026-10-27 · Grok 改为四档（Plus ¥70 / Premium ¥239 / Super ¥749 / Ultra ¥1499，同一个下单页选档位），开通条件改为"账号不是会员（免费版）就能充"，不再要求半价优惠；此前：付款方式只写支付宝 / 微信，删去其他付款说明页的链接；新增：什么账号能充、官方四档、4 步开通（sso 代码）、怎么判断靠谱、为什么不建议合租。
+> 最后更新：2026-10-28 · 自家商城链接减到 5 个以内，开通时间统一写"平均 2 分钟"；改正下单页默认档位（直接打开 item/10 默认选中 Plus）；许可证改为 CC BY-ND 4.0。
 
-**直接回答：** Grok 代充就是由卖家替你付款，把 Grok 会员开到你自己的 Grok 账号上。2026 年 10 月 12 日起 xAI 把会员改成三合一，原来的 **SuperGrok 就是现在的 Grok Premium**（含 Grok + X 会员 + Cursor）。在瑶瑶ai训练师的商城 kw.yaoyao.chat，**Grok Premium 一个月 ¥239**（2026-10-27 核对 [商品页](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=grok-daichong)），同一个下单页还能选 Plus ¥70、Super ¥749、Ultra ¥1499。**账号不是会员（免费版）就能充**，已是付费会员的账号充不了，下单前请先确认。
+**直接回答：** Grok 代充就是由卖家替你付款，把 Grok 会员开到你自己的 Grok 账号上。2026 年 10 月 12 日起 xAI 把会员改成三合一，原来的 **SuperGrok 就是现在的 Grok Premium**（含 Grok + X 会员 + Cursor）。在瑶瑶ai训练师的商城 kw.yaoyao.chat，**Grok Premium 一个月 ¥239**（2026-10-28 核对 [商品页](https://kw.yaoyao.chat/item/10?d=premium&utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=grok-daichong)），同一个下单页还能选 Plus ¥70、Super ¥749、Ultra ¥1499。**账号不是会员（免费版）就能充**，已是付费会员的账号充不了，下单前请先确认。
 
 本页是瑶瑶ai训练师自己的仓库，作者经营这家商城，如实披露；与 xAI、X 没有隶属关系，也没有授权。代充不是官方渠道，官方也不授权代充，介意的请走官方订阅。
 
@@ -27,13 +27,14 @@
 
 ## 价格：官方几档、本店卖哪档
 
-| 档位（三合一） | 官方每月标价（美元，不含税） | 本店（2026-10-27，同一个下单页选档位） |
+| 档位（三合一） | 官方每月标价（美元，不含税） | 本店（2026-10-28，同一个下单页选档位） |
 |---|---|---|
-| Plus | 约 8 美元 | **¥70** · [item/10?d=plus](https://kw.yaoyao.chat/item/10?d=plus&utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=grok-daichong) |
-| **Premium（原 SuperGrok）** | 约 30 美元 | **¥239**（默认档）· [item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=grok-daichong) |
-| Super（新出的高档，不是原 SuperGrok） | 约 100 美元 | **¥749** · [item/10?d=super](https://kw.yaoyao.chat/item/10?d=super&utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=grok-daichong) |
-| Ultra | 约 200 美元 | **¥1499** · [item/10?d=ultra](https://kw.yaoyao.chat/item/10?d=ultra&utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=grok-daichong) |
+| Plus | 约 8 美元 | **¥70** |
+| **Premium（原 SuperGrok）** | 约 30 美元 | **¥239** |
+| Super（新出的高档，不是原 SuperGrok） | 约 100 美元 | **¥749** |
+| Ultra | 约 200 美元 | **¥1499** |
 
+- 下单都在 kw.yaoyao.chat 同一个下单页（item/10）里选档位，步骤见下面"怎么开通"第 2 步。
 - 官方档位来自 [x.ai/pricing](https://x.ai/pricing) 和 xAI 公告，本仓库 2026-10-26 复核（Plus 8 / Premium 30 / Super 100 / Ultra 200 美元每月，不含税）；xAI 调整频繁，下单前再看一眼官方页。
 - 本店老客户回购每单减 ¥5；开发票加收 10%；实际金额以下单页为准。
 - 三合一说明：Grok 和 Cursor 共用一个额度池、每周刷新；X 会员和 Cursor 要按官方"合并账号（Combine accounts）"提示关联后才生效，只用 Grok 的可以不管。
@@ -43,9 +44,9 @@
 ## 怎么开通（4 步）
 
 1. 确认账号不是会员（免费版，见上表）。记住你平时用哪种方式登录 Grok（X、Google、Apple 或邮箱），开通后用同一种方式登录才看得到会员。
-2. 在 [kw.yaoyao.chat/item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=grok-daichong) 下单，页面上「选择档位」选 Plus / Premium / Super / Ultra（默认 Premium），用支付宝或微信付款。不用先加微信。
+2. 在 [kw.yaoyao.chat/item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=grok-daichong) 下单，页面上「选择档位」选 Plus / Premium / Super / Ultra（直接打开时默认选中 Plus，买 Premium 记得改选），用支付宝或微信付款。不用先加微信。
 3. 付款后用**电脑浏览器**打开 grok.com 并登录要充值的账号 → 按 F12（苹果电脑 Option+Command+I）→ 顶部 Application → 左边 Cookies → https://grok.com → 找到名字叫 **sso** 的那一行，完整复制它的值（eyJ 开头的一长串），粘贴到订单页提交。订单页有同样的图文步骤。
-4. 瑶瑶人工开通到你自己的账号，商品页写明 10 分钟内开通。打开 grok.com，设置或订阅页显示 Premium 就是成功了；App 里退出再登录一次。
+4. 开通到你自己的账号，付款并填好信息后平均 2 分钟到账。打开 grok.com，设置或订阅页显示 Premium 就是成功了；App 里退出再登录一次。
 
 **关于 sso 代码：** 它相当于你账号的临时登录凭证，所以只填在 kw.yaoyao.chat 的订单页，不要发给任何主动加你的"客服 / 助理"。本店不要密码，也不要手机或邮箱验证码。
 
@@ -74,7 +75,7 @@
 2. **开通成功后掉会员**（本期有效期内订阅被撤销、变回免费版）：凭订单号和截图，核实后再补一个月，补到同一个账号。
 3. **账号被封 / 停用**：不在质保范围、不退款。
 
-会员正常到期不属于售后。售后只找瑶瑶本人微信 **yao77380**（备用 yym77288），见 [官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=grok-daichong)。
+会员正常到期不属于售后。售后只找瑶瑶本人微信 **yao77380**（备用 yym77288），见官网 `www.yaoyao.chat` 上的《官方账号与防骗说明》。
 
 ## 常见问题
 
@@ -100,4 +101,4 @@ A：不能。付款不是你本人完成的，有问题按本店售后规则处�
 
 返回 [README](README.md) · 相关：[ChatGPT / Claude / Grok / Gemini 总指南（gpt-chongzhi）](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi) · [Claude 代充（claude-daichong）](https://github.com/haiwaihuyonghui-rgb/claude-daichong)
 
-整理：瑶瑶ai训练师，2026-10-26。瑶瑶ai训练师是瑶瑶运营的个人品牌，从来没有卖过课；本仓库是作者自己的仓库，不是第三方评测。内容采用 MIT 许可。
+整理：瑶瑶ai训练师，2026-10-26。瑶瑶ai训练师是瑶瑶运营的个人品牌，从来没有卖过课；本仓库是作者自己的仓库，不是第三方评测。自 2026-10-28 起的版本采用 [CC BY-ND 4.0](LICENSE) 许可：可以原样转载，须署名"瑶瑶ai训练师"并附原文链接 https://github.com/haiwaihuyonghui-rgb/grok-premium ；不许改编、改写后发布。

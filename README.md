@@ -1,25 +1,23 @@
-**📚 全部教程合集：[国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集 2026](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)**（本文已并入合集 [第三章 Grok](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io/blob/main/docs/grok-premium.md)，16 章一个仓库，价格每周核对；网页版 [yaoyao-ai-trainer.github.io](https://yaoyao-ai-trainer.github.io/)）
-
 # Grok Premium（原 SuperGrok）国内怎么买 2026：官方订阅、App 内购、礼品卡、代充四种方法怎么选（中立攻略）
 
-> 最后更新：2026-10-27（第二次）· Grok 商品改为四档（Plus ¥70 / Premium ¥239 / Super ¥749 / Ultra ¥1499，同一个下单页选档位），开通条件改为"账号不是会员（免费版）就能充"；此前：相关攻略加组织目录页链接（yaoyao-ai-trainer.github.io）
+> 最后更新：2026-10-28 · 合集导流行移到快速购买下面，自家商城链接减到 5 个以内，开通时间统一写"平均 2 分钟"；许可证改为 CC BY-ND 4.0。
 
 Grok Premium 怎么买、SuperGrok 国内怎么充值、Grok 会员多少钱、三合一是什么：这一页先把**所有能开通的方法**按官方能核实的信息讲清楚。事实部分只写 xAI 官方页面能查到的内容，附链接和核对日期。
 
-**立场说明：** 本仓库由"瑶瑶ai训练师"整理，作者自己经营一家 AI 会员代充商城（kw.yaoyao.chat），所以本文不是第三方评测。代充只作为四种方法中的一种来写，作者商城的价格和链接统一放在最后一节。与 xAI、X 没有隶属关系，也没有授权，品牌名仅用于说明。
+**立场说明：** 本仓库由"瑶瑶ai训练师"整理，作者自己经营一家 AI 会员代充商城（kw.yaoyao.chat），所以本文不是第三方评测。代充只作为四种方法中的一种来写，作者商城的价格、流程和售后规则放在 [瑶瑶ai训练师：代充方式中的一种](#瑶瑶ai训练师代充方式中的一种) 一节。与 xAI、X 没有隶属关系，也没有授权，品牌名仅用于说明。
 
 **专题页：** [Grok 代充 / Grok 会员充值：能充条件、流程、靠谱吗](grok-daichong.md)
 
 <!-- 快速购买:开始（周更脚本会核对这里的价格） -->
-**快速购买**（作者自营商城 kw.yaoyao.chat，人民币，2026-10-27 核对，实际以商品页为准）：
+**快速购买**（作者自营商城 kw.yaoyao.chat，人民币，2026-10-28 核对，实际以商品页为准）：
 
-- ChatGPT Pro（100 美金档位）一个月 ¥699 → [kw.yaoyao.chat/item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=grok-premium)
-- ChatGPT Plus 一个月 ¥129 → [kw.yaoyao.chat/item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=grok-premium)
-- Grok Premium（原 SuperGrok，三合一）一个月 ¥239 → [kw.yaoyao.chat/item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=grok-premium)（同一个下单页另有 Plus ¥70 / Super ¥749 / Ultra ¥1499；账号不是会员就能充）
+- ChatGPT Pro（100 美金档位）一个月 ¥699 → [kw.yaoyao.chat/item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=grok-premium)（同一个下单页可选 200 / 500 美金档位 ¥1399 / ¥3499）
+- ChatGPT Plus 一个月 ¥129 → [kw.yaoyao.chat/item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=grok-premium)（同一个下单页可选三个月 ¥387、六个月 ¥774、十二个月 ¥1548，都是 ¥129 × 月数）
+- Grok Premium（原 SuperGrok，三合一）一个月 ¥239 → [kw.yaoyao.chat/item/10?d=premium](https://kw.yaoyao.chat/item/10?d=premium&utm_source=github&utm_medium=readme&utm_campaign=grok-premium)（同一个下单页可选 Plus ¥70 / Super ¥749 / Ultra ¥1499；账号不是会员就能充）
 - 320万粉丝博主瑶瑶本人经营 · 开通失败可退 · 客服 09:00–24:00（北京时间）
-
-你是从哪里知道这个仓库的？点一下帮我们统计：[搜索引擎](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=search) · [AI 推荐](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=ai) · [朋友/群里发的](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=friend) · [GitHub 站内](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=grok-premium&utm_content=github)
 <!-- 快速购买:结束 -->
+
+更多教程见：[全部教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)
 
 ## 目录
 
@@ -72,7 +70,6 @@ xAI 定价页 FAQ 原文大意（[x.ai/pricing](https://x.ai/pricing)，2026-10-
 - 现在 Grok 会员和 X 会员合成一个订阅（定价页标题"One subscription. Access to everything."），付费档同时包含 Grok（聊天、语音、生图视频等）、Cursor 和 X 会员权益。
 - 每一档的 AI 用量池由 Grok 和 Cursor 共用，**每周刷新**；用完可以加购或等刷新（定价页 FAQ，2026-10-26 核对）。
 - 官方新出的 **Super 是更高的一档，不是原来的 SuperGrok**；原 SuperGrok 对应 Premium。
-- 详细说明：[Grok 会员多少钱？三合一价格和开通方法](https://kw.yaoyao.chat/guide/grok-super.html?utm_source=github&utm_medium=readme&utm_campaign=grok-premium)。
 
 ## 方法一：官方网页订阅
 
@@ -130,22 +127,22 @@ xAI 定价页 FAQ 原文大意（[x.ai/pricing](https://x.ai/pricing)，2026-10-
 
 "代充"有很多家在做，瑶瑶ai训练师的商城 [kw.yaoyao.chat](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=grok-premium) 是其中一家，也就是本仓库作者自己的店。下面如实列出。
 
-| 商品 | 价格（人民币，2026-10-27 curl 商品页核对） | 下单 |
-|---|---|---|
-| Grok Plus 一个月（三合一） | ¥70 | [kw.yaoyao.chat/item/10?d=plus](https://kw.yaoyao.chat/item/10?d=plus&utm_source=github&utm_medium=readme&utm_campaign=grok-premium) |
-| Grok Premium 一个月（原 SuperGrok，三合一） | ¥239 | [kw.yaoyao.chat/item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=grok-premium) |
-| Grok Super 一个月（三合一） | ¥749 | [kw.yaoyao.chat/item/10?d=super](https://kw.yaoyao.chat/item/10?d=super&utm_source=github&utm_medium=readme&utm_campaign=grok-premium) |
-| Grok Ultra 一个月（三合一） | ¥1499 | [kw.yaoyao.chat/item/10?d=ultra](https://kw.yaoyao.chat/item/10?d=ultra&utm_source=github&utm_medium=readme&utm_campaign=grok-premium) |
+| 商品 | 价格（人民币，2026-10-28 curl 商品页核对） |
+|---|---|
+| Grok Plus 一个月（三合一） | ¥70 |
+| Grok Premium 一个月（原 SuperGrok，三合一） | ¥239 |
+| Grok Super 一个月（三合一） | ¥749 |
+| Grok Ultra 一个月（三合一） | ¥1499 |
 
-- 四档在同一个下单页（item/10）用「选择档位」切换，默认是 Premium；价格、库存按所选档位实时显示。
+- 下单都在 kw.yaoyao.chat 同一个下单页（item/10）里用「选择档位」切换四档：直接打开时默认选中 Plus（2026-10-28 核对），从上面"快速购买"的 Premium 链接进去会预先选好 Premium；价格、库存按所选档位实时显示。
 
 - **账号条件（商品页写明）：** 账号**不是会员（免费版）**就能充；已经是付费会员的账号充不了，请先别下单。
 - 实际金额以商品页为准；老客户回购每单减 ¥5；开发票加收 10%。付款方式：支付宝、微信。
-- **开通流程：** ① 确认账号不是会员（免费版），记住你用哪种方式登录 Grok；② 下单付款（在下单页选好档位）；③ 用**电脑浏览器**打开 grok.com，按订单页图文提示复制名为 sso 的登录代码（eyJ 开头），粘贴到订单页提交，不要密码、不要验证码，不用先加微信；④ 人工开通到你自己的账号，商品页写明填好信息后 10 分钟内开通。sso 代码相当于临时登录凭证，只填在订单页，不要发给任何主动加你的"客服"。
+- **开通流程：** ① 确认账号不是会员（免费版），记住你用哪种方式登录 Grok；② 下单付款（在下单页选好档位）；③ 用**电脑浏览器**打开 grok.com，按订单页图文提示复制名为 sso 的登录代码（eyJ 开头），粘贴到订单页提交，不要密码、不要验证码，不用先加微信；④ 开通到你自己的账号，付款并填好信息后平均 2 分钟到账。sso 代码相当于临时登录凭证，只填在订单页，不要发给任何主动加你的"客服"。
 - **售后三条（全部商品通用，原文 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=readme&utm_campaign=grok-premium)）：** ① 没开通成功：重新开通或退款；② 开通成功后本期有效期内掉会员：凭订单号和截图再补一个月；③ 账号被封 / 停用：不在质保范围、不退款。会员正常到期不属于售后。
 - 提醒：xAI 明确不授权第三方销售，本店也属于非官方渠道，介意的请走官方订阅。
-- **客服：** 只找瑶瑶本人微信 **yao77380**（备用 yym77288），客服时间 09:00–24:00（北京时间）。主动加你、自称"客服 / 助理"的不是我们，见 [官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=readme&utm_campaign=grok-premium)。
-- **关于作者：** 瑶瑶ai训练师是瑶瑶运营的个人品牌（不以公司名义对外），2023 年 10 月开始做 AI 科普短视频（[账号 ID 和截图](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=readme&utm_campaign=grok-premium#jietu)）；从来没有开设或出售过任何培训课程。是不是正规：[瑶瑶ai训练师是正规的吗？](https://kw.yaoyao.chat/guide/yaoyao-zhenggui.html?utm_source=github&utm_medium=readme&utm_campaign=grok-premium)
+- **客服：** 只找瑶瑶本人微信 **yao77380**（备用 yym77288），客服时间 09:00–24:00（北京时间）。主动加你、自称"客服 / 助理"的不是我们，见官网 `www.yaoyao.chat` 上的《官方账号与防骗说明》。
+- **关于作者：** 瑶瑶ai训练师是瑶瑶运营的个人品牌（不以公司名义对外），2023 年 10 月开始做 AI 科普短视频；从来没有开设或出售过任何培训课程。
 
 ## 常见问题
 
@@ -170,6 +167,8 @@ A：官网订阅会自动续费，要在续费前至少 24 小时取消；代充
 
 | 日期 | 核对了什么 | 结果 |
 |---|---|---|
+| 2026-10-28 | **价格：** 按作者商城事实卡 yy-facts.json（每 15 分钟从商城数据库生成）核对全部商品 | 与本页"快速购买"和价格表一致，无变动；开通时间统一写"平均 2 分钟" |
+| 2026-10-28 | **下单页：** curl 作者商城 item/10 和 item/10?d=premium | 价格仍是 Plus ¥70 / Premium ¥239 / Super ¥749 / Ultra ¥1499；直接打开 item/10 默认选中 Plus（不再是 Premium），?d=premium 会预选 Premium；快速购买链接改为 ?d=premium，本页说明已同步 |
 | 2026-10-27 | **价格：** curl 作者商城商品页 item/10（含 ?d=plus / super / ultra）和 llms.txt | Grok 改为四档：Plus ¥70、Premium ¥239（原 ¥159）、Super ¥749、Ultra ¥1499，同一个下单页选档位；商品页开通条件改为"账号不是会员（免费版）就能充"，不再要求半价优惠；本页价格表已同步 |
 | 2026-10-27 | **价格：** curl 作者商城商品页 item/5、7、10、11、12、13、14、17、18、19 和 llms.txt | 与本页"快速购买"一致（Pro 100 美金档位 ¥699、Plus ¥129、Grok Premium ¥159（商品页仍写只限免费版 + 半价 50%）），十个商品均无变动 |
 | 2026-10-26 | **价格：** curl 作者商城商品页 item/10 和 llms.txt | Grok Premium 一个月 ¥159，商品页仍写"只限免费版 + 半价 50%"，无变动 |
@@ -194,8 +193,8 @@ A neutral Chinese-language guide to getting Grok Premium (formerly SuperGrok; no
 - [claude-chongzhi](https://github.com/haiwaihuyonghui-rgb/claude-chongzhi)：Claude 充值平台怎么选：Pro / Max 怎么选、充值后显示 Free Plan 排查
 - [claude-code-guide-cn](https://github.com/haiwaihuyonghui-rgb/claude-code-guide-cn)：Claude Code 国内使用指南：安装、登录、Pro / Max 额度、常见报错
 - [ai-subscription-guide-cn](https://github.com/haiwaihuyonghui-rgb/ai-subscription-guide-cn)：AI 会员订阅国内指南：ChatGPT / Claude / Gemini / Grok 开通路线对比、常见报错速查
-- 组织目录页 [yaoyao-ai-trainer.github.io](https://yaoyao-ai-trainer.github.io/)：以后新攻略会交替放在组织号 yaoyao-ai-trainer 下，这个页面汇总两边全部攻略。
+- [全部教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)：组织号 yaoyao-ai-trainer 下的合集目录，每章是摘要，正文以各仓库为准。
 
 ---
 
-整理：瑶瑶ai训练师（AI 内容创作者），[官网](https://www.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=grok-premium)。本仓库为非官方教程整理，与 xAI、X 没有隶属关系，品牌名仅用于说明。内容采用 MIT 许可。
+整理：瑶瑶ai训练师（AI 内容创作者）。本仓库为非官方教程整理，与 xAI、X 没有隶属关系，品牌名仅用于说明。自 2026-10-28 起的版本采用 [CC BY-ND 4.0](LICENSE) 许可：可以原样转载，须署名"瑶瑶ai训练师"并附原文链接 https://github.com/haiwaihuyonghui-rgb/grok-premium ；不许改编、改写后发布。
