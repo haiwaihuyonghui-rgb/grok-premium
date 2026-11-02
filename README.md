@@ -14,7 +14,7 @@ Grok Premium 怎么买、SuperGrok 国内怎么充值、Grok 会员多少钱、�
 - ChatGPT Pro（100 美金档位）一个月 ¥699 → [kw.yaoyao.chat/item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=grok-premium)（同一个下单页可选 200 / 500 美金档位 ¥1399 / ¥3499）
 - ChatGPT Plus 一个月 ¥129 → [kw.yaoyao.chat/item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=grok-premium)（同一个下单页可选三个月 ¥387、六个月 ¥774、十二个月 ¥1548，都是 ¥129 × 月数）
 - Grok Premium（原 SuperGrok，三合一）一个月 ¥239 → [kw.yaoyao.chat/item/10?d=premium](https://kw.yaoyao.chat/item/10?d=premium&utm_source=github&utm_medium=readme&utm_campaign=grok-premium)（同一个下单页可选 Plus ¥70 / Super ¥749 / Ultra ¥1499；账号不是会员就能充）
-- 320万粉丝博主瑶瑶本人经营 · 开通失败可退 · 客服 09:00–24:00（北京时间）
+- 320万粉丝博主瑶瑶本人经营 · 开通失败可退 · 客服全天 24 小时
 <!-- 快速购买:结束 -->
 
 更多教程见：[全部教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)
@@ -141,7 +141,7 @@ xAI 定价页 FAQ 原文大意（[x.ai/pricing](https://x.ai/pricing)，2026-10-
 - **开通流程：** ① 确认账号不是会员（免费版），记住你用哪种方式登录 Grok；② 下单付款（在下单页选好档位）；③ 用**电脑浏览器**打开 grok.com，按订单页图文提示复制名为 sso 的登录代码（eyJ 开头），粘贴到订单页提交，不要密码、不要验证码，不用先加微信；④ 开通到你自己的账号，付款并填好信息后平均 2 分钟到账。sso 代码相当于临时登录凭证，只填在订单页，不要发给任何主动加你的"客服"。
 - **售后三条（全部商品通用，原文 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=readme&utm_campaign=grok-premium)）：** ① 没开通成功：重新开通或退款；② 开通成功后本期有效期内掉会员：凭订单号和截图再补一个月；③ 账号被封 / 停用：不在质保范围、不退款。会员正常到期不属于售后。
 - 提醒：xAI 明确不授权第三方销售，本店也属于非官方渠道，介意的请走官方订阅。
-- **客服：** 只找瑶瑶本人微信 **yao77380**（备用 yym77288），客服时间 09:00–24:00（北京时间）。主动加你、自称"客服 / 助理"的不是我们，见官网 `www.yaoyao.chat` 上的《官方账号与防骗说明》。
+- **客服：** 只找瑶瑶本人微信 **yao77380**（备用 yym77288），客服时间全天 24 小时。主动加你、自称"客服 / 助理"的不是我们，见官网 `www.yaoyao.chat` 上的《官方账号与防骗说明》。
 - **关于作者：** 瑶瑶ai训练师是瑶瑶运营的个人品牌（不以公司名义对外），2023 年 10 月开始做 AI 科普短视频；从来没有开设或出售过任何培训课程。
 
 ## 常见问题
@@ -174,7 +174,7 @@ A：官网订阅会自动续费，要在续费前至少 24 小时取消；代充
 | 2026-10-26 | **价格：** curl 作者商城商品页 item/10 和 llms.txt | Grok Premium 一个月 ¥159，商品页仍写"只限免费版 + 半价 50%"，无变动 |
 | 2026-10-26 | **官方价格：** 打开 x.ai/pricing | Plus 8 / Premium 30 / Super 100 / Ultra 200 美元每月，不含税，和 10-22 核对一致 |
 | 2026-10-26 | 官方政策： x.ai/pricing FAQ | 自助订阅支持主流信用卡和借记卡；用量池 Grok 与 Cursor 共用、每周刷新；官方不授权任何第三方卖家，未授权来源的订阅可能被暂停或终止（本次新写入正文）；续费前 24 小时取消 |
-| 2026-10-26 | **开通流程：** 对照商城售后页和 llms.txt | 订单页填 sso 代码、人工开通；售后三条一致 |
+| 2026-10-26 | **开通流程：** 对照商城售后页和 llms.txt | 付款后在订单页填 sso 代码、在线开通，平均 2 分钟到账；售后三条一致 |
 
 ## English summary
 
